@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Sights On The Heights</title>
+    <link>http://localhost:1313/tags/journal/</link>
+    <description>Recent content in Journal on Sights On The Heights</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jul 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/mypost/</link>
+      <pubDate>Sat, 27 Jul 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mypost/</guid>
+      <description>2024 Goals&#xD;#&#xD;Research more into masters (bioinformatics using data sci/machine learning) directed study w/ Dr. Wong honours thesis with Dr. Holden Get deeper relationships spend time doing commonly-enjoyed activities with friends once per week talk to family once per week → unconditional love Cook food + gain an appreciation for fine dining daily cooking and weekly meal prep Become a master of one art (probably writing but we’ll see) writing once per week reading everyday Have some musical talent, enjoy listening to new music + play/sing songs listen to 1 new album a week → document on obsidian singing → learn to sing a few songs and get a better sense of my voice playing music → accompaniment?</description>
+    </item>
+  </channel>
+</rss>

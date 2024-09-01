@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on Sights On The Heights</title>
+    <link>http://localhost:1313/docs/projects/art/</link>
+    <description>Recent content in Art on Sights On The Heights</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/projects/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>123</title>
+      <link>http://localhost:1313/docs/projects/art/art-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/projects/art/art-1/</guid>
+      <description>&#xD;Art 1&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>456</title>
+      <link>http://localhost:1313/docs/projects/art/art-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/projects/art/art-2/</guid>
+      <description>&#xD;Art 2&#xD;#&#xD;</description>
+    </item>
+  </channel>
+</rss>
